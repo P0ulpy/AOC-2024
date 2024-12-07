@@ -1,0 +1,1 @@
+g++ day1.cpp -o %~dp0build/debug/day1.exe -std=c++17 -fdiagnostics-color=always -g
